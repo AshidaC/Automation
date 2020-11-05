@@ -1,0 +1,127 @@
+2020-10-29 19:02:04,816 : INFO : test_e2e : Getting all the titles
+2020-10-29 19:02:07,849 : INFO : test_e2e : a:iphone X
+2020-10-29 19:02:07,864 : INFO : test_e2e : a:Samsung Note 8
+2020-10-29 19:02:07,882 : INFO : test_e2e : a:Nokia Edge
+2020-10-29 19:02:07,898 : INFO : test_e2e : a:Blackberry
+2020-10-29 19:02:20,141 : INFO : test_e2e : entering country name as ind
+2020-10-29 19:02:22,428 : INFO : test_e2e : Text recievd from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-29 19:08:30,425 : INFO : test_e2e : Getting all the titles
+2020-10-29 19:08:33,462 : INFO : test_e2e : a:iphone X
+2020-10-29 19:08:33,482 : INFO : test_e2e : a:Samsung Note 8
+2020-10-29 19:08:33,484 : INFO : test_e2e : a:Nokia Edge
+2020-10-29 19:08:33,516 : INFO : test_e2e : a:Blackberry
+2020-10-29 19:08:45,756 : INFO : test_e2e : entering country name as ind
+2020-10-29 19:08:48,072 : INFO : test_e2e : Text recievd from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-29 19:10:13,055 : INFO : test_e2e : Getting all the titles
+2020-10-29 19:10:16,086 : INFO : test_e2e : a:iphone X
+2020-10-29 19:10:16,104 : INFO : test_e2e : a:Samsung Note 8
+2020-10-29 19:10:16,113 : INFO : test_e2e : a:Nokia Edge
+2020-10-29 19:10:16,139 : INFO : test_e2e : a:Blackberry
+2020-10-29 19:10:28,406 : INFO : test_e2e : entering country name as ind
+2020-10-29 19:10:30,700 : INFO : test_e2e : Text recievd from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-30 09:30:09,467 : INFO : test_formSubmission : get firstname is Ashida
+2020-10-30 09:30:14,079 : INFO : test_formSubmission : get firstname is aslam
+2020-10-30 09:30:14,079 : INFO : test_formSubmission : get firstname is aslam
+2020-10-30 09:30:31,225 : INFO : test_e2e : Getting all the titles
+2020-10-30 09:30:34,260 : INFO : test_e2e : a:iphone X
+2020-10-30 09:30:34,287 : INFO : test_e2e : a:Samsung Note 8
+2020-10-30 09:30:34,294 : INFO : test_e2e : a:Nokia Edge
+2020-10-30 09:30:34,320 : INFO : test_e2e : a:Blackberry
+2020-10-30 09:30:46,554 : INFO : test_e2e : entering country name as ind
+2020-10-30 09:30:48,860 : INFO : test_e2e : Text recievd from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-30 09:40:25,385 : INFO : test_formSubmission : get firstname is Ashida
+2020-10-30 09:40:29,982 : INFO : test_formSubmission : get firstname is aslam
+2020-10-30 09:40:29,982 : INFO : test_formSubmission : get firstname is aslam
+2020-10-30 09:40:47,368 : INFO : test_e2e : Getting all the titles
+2020-10-30 09:40:50,389 : INFO : test_e2e : a:iphone X
+2020-10-30 09:40:50,408 : INFO : test_e2e : a:Samsung Note 8
+2020-10-30 09:40:50,425 : INFO : test_e2e : a:Nokia Edge
+2020-10-30 09:40:50,442 : INFO : test_e2e : a:Blackberry
+2020-10-30 09:41:02,691 : INFO : test_e2e : entering country name as ind
+2020-10-30 09:41:05,010 : INFO : test_e2e : Text recievd from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-30 10:04:46,672 : INFO : test_formSubmission : get firstname is Ashida
+2020-10-30 10:04:51,303 : INFO : test_formSubmission : get firstname is aslam
+2020-10-30 10:04:51,303 : INFO : test_formSubmission : get firstname is aslam
+2020-10-30 10:05:08,572 : INFO : test_e2e : Getting all the titles
+2020-10-30 10:05:11,609 : INFO : test_e2e : a:iphone X
+2020-10-30 10:05:11,630 : INFO : test_e2e : a:Samsung Note 8
+2020-10-30 10:05:11,647 : INFO : test_e2e : a:Nokia Edge
+2020-10-30 10:05:11,664 : INFO : test_e2e : a:Blackberry
+2020-10-30 10:05:23,946 : INFO : test_e2e : entering country name as ind
+2020-10-30 10:05:26,176 : INFO : test_e2e : Text recievd from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-10-30 10:07:05,173 : INFO : test_formSubmission : get firstname is Ashida
+2020-10-30 10:07:09,735 : INFO : test_formSubmission : get firstname is aslam
+2020-10-30 10:07:09,735 : INFO : test_formSubmission : get firstname is aslam
+2020-10-30 10:07:26,801 : INFO : test_e2e : Getting all the titles
+2020-10-30 10:07:29,855 : INFO : test_e2e : a:iphone X
+2020-10-30 10:07:29,876 : INFO : test_e2e : a:Samsung Note 8
+2020-10-30 10:07:29,894 : INFO : test_e2e : a:Nokia Edge
+2020-10-30 10:07:29,909 : INFO : test_e2e : a:Blackberry
+2020-10-30 10:07:42,164 : INFO : test_e2e : entering country name as ind
+2020-10-30 10:07:44,428 : INFO : test_e2e : Text recievd from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-02 18:11:11,056 : INFO : test_formSubmission : get firstname is Ashida
+2020-11-02 18:11:15,647 : INFO : test_formSubmission : get firstname is aslam
+2020-11-02 18:11:15,647 : INFO : test_formSubmission : get firstname is aslam
+2020-11-02 18:11:32,894 : INFO : test_e2e : Getting all the titles
+2020-11-02 18:11:35,934 : INFO : test_e2e : a:iphone X
+2020-11-02 18:11:35,960 : INFO : test_e2e : a:Samsung Note 8
+2020-11-02 18:11:35,978 : INFO : test_e2e : a:Nokia Edge
+2020-11-02 18:11:35,994 : INFO : test_e2e : a:Blackberry
+2020-11-02 18:11:48,279 : INFO : test_e2e : entering country name as ind
+2020-11-02 18:11:50,547 : INFO : test_e2e : Text recievd from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-02 18:30:37,012 : INFO : test_formSubmission : get firstname is Ashida
+2020-11-02 18:30:41,606 : INFO : test_formSubmission : get firstname is aslam
+2020-11-02 18:30:41,606 : INFO : test_formSubmission : get firstname is aslam
+2020-11-02 18:30:58,734 : INFO : test_e2e : Getting all the titles
+2020-11-02 18:31:01,765 : INFO : test_e2e : a:iphone X
+2020-11-02 18:31:01,785 : INFO : test_e2e : a:Samsung Note 8
+2020-11-02 18:31:01,801 : INFO : test_e2e : a:Nokia Edge
+2020-11-02 18:31:01,818 : INFO : test_e2e : a:Blackberry
+2020-11-02 18:31:14,066 : INFO : test_e2e : entering country name as ind
+2020-11-02 18:31:16,298 : INFO : test_e2e : Text recievd from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-03 17:57:14,236 : INFO : test_formSubmission : get firstname is Ashida
+2020-11-03 17:57:18,858 : INFO : test_formSubmission : get firstname is aslam
+2020-11-03 17:57:18,858 : INFO : test_formSubmission : get firstname is aslam
+2020-11-03 17:57:36,717 : INFO : test_e2e : Getting all the titles
+2020-11-03 17:57:39,749 : INFO : test_e2e : a:iphone X
+2020-11-03 17:57:39,767 : INFO : test_e2e : a:Samsung Note 8
+2020-11-03 17:57:39,778 : INFO : test_e2e : a:Nokia Edge
+2020-11-03 17:57:39,800 : INFO : test_e2e : a:Blackberry
+2020-11-03 17:57:52,089 : INFO : test_e2e : entering country name as ind
+2020-11-03 17:57:54,336 : INFO : test_e2e : Text recievd from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-03 18:31:52,333 : INFO : test_formSubmission : get firstname is Ashida
+2020-11-03 18:31:56,953 : INFO : test_formSubmission : get firstname is aslam
+2020-11-03 18:31:56,953 : INFO : test_formSubmission : get firstname is aslam
+2020-11-03 18:32:13,925 : INFO : test_e2e : Getting all the titles
+2020-11-03 18:32:16,947 : INFO : test_e2e : a:iphone X
+2020-11-03 18:32:16,966 : INFO : test_e2e : a:Samsung Note 8
+2020-11-03 18:32:16,983 : INFO : test_e2e : a:Nokia Edge
+2020-11-03 18:32:16,999 : INFO : test_e2e : a:Blackberry
+2020-11-03 18:32:29,218 : INFO : test_e2e : entering country name as ind
+2020-11-03 18:32:31,424 : INFO : test_e2e : Text recievd from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-03 18:34:42,490 : INFO : test_formSubmission : get firstname is Ashida
+2020-11-03 18:34:47,085 : INFO : test_formSubmission : get firstname is aslam
+2020-11-03 18:34:47,085 : INFO : test_formSubmission : get firstname is aslam
+2020-11-03 18:35:04,293 : INFO : test_e2e : Getting all the titles
+2020-11-03 18:35:07,339 : INFO : test_e2e : a:iphone X
+2020-11-03 18:35:07,364 : INFO : test_e2e : a:Samsung Note 8
+2020-11-03 18:35:07,381 : INFO : test_e2e : a:Nokia Edge
+2020-11-03 18:35:07,398 : INFO : test_e2e : a:Blackberry
+2020-11-03 18:35:19,626 : INFO : test_e2e : entering country name as ind
+2020-11-03 18:35:21,918 : INFO : test_e2e : Text recievd from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-11-04 17:57:37,763 : INFO : test_formSubmission : get firstname is Ashida
+2020-11-04 17:59:02,382 : INFO : test_formSubmission : get firstname is Ashida
+2020-11-04 18:09:50,632 : INFO : test_formSubmission : get firstname is ashida
+2020-11-04 18:14:01,702 : INFO : test_formSubmission : get firstname is Ashida
